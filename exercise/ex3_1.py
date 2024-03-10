@@ -8,9 +8,9 @@ Description...: Sample solution for exercise 3-1.
                 functions and also shows how to convert data types and
                 process string concatenation.
 """
-__author__ = 'Jinsoo Park'
-__version__ = '0.1'
-__email__ = 'snu.python@gmail.com'
+__author__ = 'SUah Kim'
+__version__ = '0.2'
+__email__ = 'skygirl563@gmail.com'
 
 season = input('좋아하는 계절을 무엇인가요? ')  # input 함수로 변수 season에 값을 할당한다.
 print(season)                            # 변수 season을 출력한다.
